@@ -1,0 +1,114 @@
+{
+  "projects": [
+    {
+      "id": "getbonzo",
+      "title": "getbonzo.com",
+      "link": "https://getbonzo.com/",
+      "thumbnail": "getbonzo-thumbnail.png",
+      "mainImage": "getbonzo-main.png",
+      "shortDescription": "Landing page for Real Estate CRM",
+      "role": ["UI/UX designer", "Full-Stack developer"],
+      "tools": ["vuejs", "nuxtjs", "wordpress"]
+    },
+    {
+      "id": "verdino",
+      "title": "verdino.menu",
+      "link": "https://verdino.menu/?lang=en",
+      "thumbnail": "verdino-thumbnail.png",
+      "mainImage": "verdino-main.png",
+      "shortDescription": "Presentation website for vegan food products",
+      "role": ["Wordpress developer"],
+      "tools": ["wordpress"]
+    },
+    {
+      "id": "bhhscc",
+      "title": "bhhscc.com",
+      "link": "https://www.bhhscc.com/",
+      "thumbnail": "bhhscc-thumbnail.png",
+      "mainImage": "bhhscc-main.png",
+      "shortDescription": "Real Estate company with IDX integration",
+      "role": ["UI/UX designer", "Wordpress developer"],
+      "tools": ["wordpress", "idx"]
+    },
+    {
+      "id": "realtor614",
+      "title": "realtor614.com",
+      "link": "https://realtor614.com/",
+      "thumbnail": "realtor614-thumbnail.png",
+      "mainImage": "realtor614-main.png",
+      "shortDescription": "Real Estate realtor with IDX integration",
+      "role": ["UI/UX designer", "Wordpress developer"],
+      "tools": ["wordpress", "idx"]
+    },
+    {
+      "id": "pelipartners",
+      "title": "pelipartners.com",
+      "link": "https://pelipartners.com/",
+      "thumbnail": "pelipartners-thumbnail.png",
+      "mainImage": "pelipartners-main.png",
+      "shortDescription": "Presentation website for low company",
+      "role": ["Wordpress developer"],
+      "tools": ["wordpress"]
+    },
+    {
+      "id": "weird0",
+      "title": "weird0.com",
+      "link": "https://weird0.com/",
+      "thumbnail": "weird0-thumbnail.png",
+      "mainImage": "weird0-main.png",
+      "shortDescription": "Clothes & Fashion online shop",
+      "role": ["UI/UX designer", "Wordpress developer"],
+      "tools": ["wordpress"]
+    },
+    {
+      "id": "cyra",
+      "title": "cyra.ro",
+      "link": "https://cyra.ro/",
+      "thumbnail": "cyra-thumbnail.png",
+      "mainImage": "cyra-main.png",
+      "shortDescription": "Jewelry online shop",
+      "role": ["UI/UX designer", "Wordpress developer"],
+      "tools": ["wordpress"]
+    },
+    {
+      "id": "aradc",
+      "title": "aradc.ro",
+      "link": "https://www.aradc.org/",
+      "thumbnail": "aradc-thumbnail.png",
+      "mainImage": "aradc-main.png",
+      "shortDescription": "Agricultural retailers association presentation website",
+      "role": ["Wordpress developer"],
+      "tools": ["wordpress"]
+    },
+    {
+      "id": "andor",
+      "title": "georgiana-andor.com",
+      "link": "https://georgiana-andor.com/",
+      "thumbnail": "andor-thumbnail.png",
+      "mainImage": "andor-main.png",
+      "shortDescription": "Exercise scientist blog",
+      "role": ["UI/UX designer", "Wordpress developer"],
+      "tools": ["wordpress"]
+    },
+    {
+      "id": "nightsin",
+      "title": "nightsin.app",
+      "link": "https://nightsin.app/",
+      "thumbnail": "nightsin-thumbnail.png",
+      "mainImage": "nightsin-main.png",
+      "shortDescription": "Live streaming app for creative people",
+      "role": ["UI/UX designer", "Wordpress developer"],
+      "tools": ["wordpress"]
+    },
+    {
+      "id": "thevanderers",
+      "title": "thevanderers.com",
+      "link": "https://thevanderers.com/",
+      "thumbnail": "thevanderers-thumbnail.png",
+      "mainImage": "thevanderers-main.png",
+      "shortDescription": "Landing page for van rental company",
+      "role": ["Wordpress developer"],
+      "tools": ["wordpress"]
+    }
+  ]
+}
