@@ -81,16 +81,6 @@
       "tools": ["wordpress"]
     },
     {
-      "id": "cyra",
-      "title": "cyra.ro",
-      "link": "https://cyra.ro/",
-      "thumbnail": "cyra-thumbnail.png",
-      "mainImage": "cyra-main.png",
-      "shortDescription": "Jewelry online shop",
-      "role": ["UI/UX designer", "Wordpress developer"],
-      "tools": ["wordpress"]
-    },
-    {
       "id": "aradc",
       "title": "aradc.ro",
       "link": "https://www.aradc.org/",
