@@ -21,6 +21,16 @@
       "tools": ["wordpress"]
     },
     {
+      "id": "deazi",
+      "title": "deazi.eu",
+      "link": "https://deazi.eu/?lang=en",
+      "thumbnail": "deazi-thumbnail.png",
+      "mainImage": "deazi-main.png",
+      "shortDescription": "Presentation website for organic food products",
+      "role": ["Wordpress developer"],
+      "tools": ["wordpress"]
+    },
+    {
       "id": "bhhscc",
       "title": "bhhscc.com",
       "link": "https://www.bhhscc.com/",
