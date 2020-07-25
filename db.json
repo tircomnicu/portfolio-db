@@ -11,22 +11,22 @@
       "tools": ["vuejs", "nuxtjs", "wordpress"]
     },
     {
-      "id": "verdino",
-      "title": "verdino.menu",
-      "link": "https://verdino.menu/?lang=en",
-      "thumbnail": "verdino-thumbnail.png",
-      "mainImage": "verdino-main.png",
-      "shortDescription": "Presentation website for vegan food products",
-      "role": ["Wordpress developer"],
-      "tools": ["wordpress"]
-    },
-    {
       "id": "deazi",
       "title": "deazi.eu",
       "link": "https://deazi.eu/?lang=en",
       "thumbnail": "deazi-thumbnail.png",
       "mainImage": "deazi-main.png",
       "shortDescription": "Presentation website for organic food products",
+      "role": ["Wordpress developer"],
+      "tools": ["wordpress"]
+    },
+    {
+      "id": "verdino",
+      "title": "verdino.menu",
+      "link": "https://verdino.menu/?lang=en",
+      "thumbnail": "verdino-thumbnail.png",
+      "mainImage": "verdino-main.png",
+      "shortDescription": "Presentation website for vegan food products",
       "role": ["Wordpress developer"],
       "tools": ["wordpress"]
     },
@@ -61,6 +61,16 @@
       "tools": ["wordpress"]
     },
     {
+      "id": "mdb",
+      "title": "magazinuldebratari.ro",
+      "link": "https://magazinuldebratari.ro/",
+      "thumbnail": "mdb-thumbnail.png",
+      "mainImage": "mdb-main.png",
+      "shortDescription": "eCommerce for custom made bracelets",
+      "role": ["UI/UX designer", "Wordpress developer"],
+      "tools": ["wordpress"]
+    },
+    {
       "id": "weird0",
       "title": "weird0.com",
       "link": "https://weird0.com/",
@@ -88,16 +98,6 @@
       "mainImage": "aradc-main.png",
       "shortDescription": "Agricultural retailers association presentation website",
       "role": ["Wordpress developer"],
-      "tools": ["wordpress"]
-    },
-    {
-      "id": "mdb",
-      "title": "magazinuldebratari.ro",
-      "link": "https://magazinuldebratari.ro/",
-      "thumbnail": "mdb-thumbnail.png",
-      "mainImage": "mdb-main.png",
-      "shortDescription": "eCommerce for custom made bracelets",
-      "role": ["UI/UX designer", "Wordpress developer"],
       "tools": ["wordpress"]
     },
     {
