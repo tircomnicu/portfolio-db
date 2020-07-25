@@ -91,6 +91,16 @@
       "tools": ["wordpress"]
     },
     {
+      "id": "mdb",
+      "title": "magazinuldebratari.ro",
+      "link": "https://magazinuldebratari.ro/",
+      "thumbnail": "mdb-thumbnail.png",
+      "mainImage": "mdb-main.png",
+      "shortDescription": "eCommerce for custom made bracelets",
+      "role": ["UI/UX designer", "Wordpress developer"],
+      "tools": ["wordpress"]
+    },
+    {
       "id": "andor",
       "title": "georgiana-andor.com",
       "link": "https://georgiana-andor.com/",
@@ -101,12 +111,12 @@
       "tools": ["wordpress"]
     },
     {
-      "id": "nightsin",
-      "title": "nightsin.app",
-      "link": "https://nightsin.app/",
-      "thumbnail": "nightsin-thumbnail.png",
-      "mainImage": "nightsin-main.png",
-      "shortDescription": "Live streaming app for creative people",
+      "id": "babykasia",
+      "title": "babykasia.ro",
+      "link": "https://babykasia.ro/",
+      "thumbnail": "babykasia-thumbnail.png",
+      "mainImage": "babykasia-main.png",
+      "shortDescription": "eCommerce for kids toys and books",
       "role": ["UI/UX designer", "Wordpress developer"],
       "tools": ["wordpress"]
     },
